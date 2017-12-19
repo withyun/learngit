@@ -3,6 +3,7 @@ sdasdfdddddzz
 
 sssssssssssswihh
 
+<<<<<<< HEAD
 winwin
 
 change20171216
@@ -30,3 +31,6 @@ Creating a new branch is quick and simple.
 '''''''''''''''
 for dev
 /bug has gone/
+=======
+/ĞŞ¸´Ò»ÏÂbug/
+>>>>>>> issue-101
