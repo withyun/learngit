@@ -1,3 +1,7 @@
 aaaaaaa
 
 这是dev上的分支 我要提交在这个分支，然后合并在merger
+
+
+这是我在新的分支feture1尝试做修改提交，然后切换到master分支再修改master分支的内容
+使得产生合并冲突
